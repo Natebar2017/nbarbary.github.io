@@ -146,3 +146,11 @@ footer a:visited {
 footer a:hover {
     text-decoration: underline;
 }
+
+/* Table Styles */
+table.schedule {
+	background: white;
+	border: 10px ouset rgb(153, 0, 153);
+	font-size: 0.75em;
+	width:100%;
+}
